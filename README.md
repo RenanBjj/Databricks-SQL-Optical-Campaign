@@ -6,6 +6,8 @@
 ![Badge Pyspark](https://img.shields.io/badge/API-Pyspark-orange)
 ![Badge Pandas](https://img.shields.io/badge/Library-Pandas-orange)
 
+![Workflow](workflow.png)
+
 ### Description:
 This repository contains a data engineering project. The project integrates data processing, transformation, and loading using Databricks.
 
